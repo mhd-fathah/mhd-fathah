@@ -29,7 +29,7 @@ I'm passionate about creating efficient, elegant solutions through code. Special
 ## 🚀 What I Do
 
 ```typescript
-const muhammed = {
+const fathah = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
   tools: ["Angular", "Node.js", "Express", "MongoDB", "Git"],
   architecture: ["MVC", "RESTful APIs", "Single Page Applications"],
