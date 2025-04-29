@@ -156,7 +156,7 @@ I believe in continuous improvement and staying updated with the latest technolo
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mhd-fathah&color=blueviolet" alt="Profile Views" />
   
-  <img style="user-select: none; pointer-events: none;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%" alt="Wave Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%" alt="Wave Footer" />
   
   <p><i>Thanks for visiting my profile! Let's build something amazing together.</i></p>
 </div>
