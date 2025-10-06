@@ -1,7 +1,7 @@
 # Hello World! I'm Muhammed Fathah 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=MEAN+Stack+Developer;Full+Stack+Engineer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=MEAN+Stack+Developer;Full+Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 I'm passionate about creating efficient, elegant solutions through code. Specializing in MEAN stack development with a strong foundation in data structures and algorithms.
