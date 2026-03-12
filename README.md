@@ -101,7 +101,7 @@ I'm passionate about creating efficient, elegant solutions through code. Special
 const fathah = {
   expertise: "MEAN Stack Developer",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
-  tools: ["Angular", "Node.js", "Express", "MongoDB", "AWS", "Nginx"],
+  tools: ["Angular","React" "Node.js", "Express", "MongoDB", "AWS", "Nginx"],
   design: ["Figma", "Responsive Design", "UI/UX Principles"],
   testing: ["Postman", "Unit Testing", "Integration Testing"],
   architecture: ["MVC", "RESTful APIs", "Single Page Applications", "Microservices"],
