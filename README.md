@@ -8,15 +8,15 @@
 
 # 💻 About Me
 
-I am a **Full Stack Developer** passionate about building scalable, efficient, and high-performance web applications. I specialize in modern JavaScript technologies and have hands-on experience designing **responsive frontend interfaces**, **robust backend APIs**, and **scalable server architectures**.
+I am a **Full Stack Developer** passionate about building scalable, efficient, and high-performance web applications. I specialize in modern JavaScript technologies and have experience designing **responsive frontend interfaces**, **robust backend APIs**, and **scalable server architectures**.
 
-With a strong foundation in **Data Structures and Algorithms**, I enjoy solving complex problems and writing **clean, maintainable, and optimized code**.
+With a strong foundation in **Data Structures and Algorithms**, I focus on writing **clean, maintainable, and optimized code** while solving complex engineering problems.
 
 - 🔹 Full Stack JavaScript Developer  
-- 🔹 Experienced in building **RESTful APIs** and scalable backend systems  
-- 🔹 Strong understanding of **modern frontend frameworks**  
-- 🔹 Passionate about **performance optimization and clean architecture**  
-- 🔹 Continuous learner exploring new technologies and system design
+- 🔹 Experienced in building **RESTful APIs**  
+- 🔹 Strong knowledge of **modern frontend frameworks**  
+- 🔹 Passionate about **scalable backend systems and performance optimization**  
+- 🔹 Continuous learner exploring **system design and modern technologies**
 
 ---
 
@@ -37,7 +37,7 @@ With a strong foundation in **Data Structures and Algorithms**, I enjoy solving 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Databases & Caching
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,postman,figma,vscode,bash" />
@@ -71,6 +71,7 @@ const fathah = {
 
   databases: [
     "MongoDB",
+    "PostgreSQL",
     "MySQL",
     "Redis"
   ],
@@ -116,7 +117,7 @@ const fathah = {
 # 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhd-fathah&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhd-fathah&theme=dracula&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -125,11 +126,11 @@ const fathah = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhd-fathah&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mhd-fathah&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhd-fathah&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhd-fathah&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-fathah&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-fathah&theme=radical&hide_border=true&layout=compact" />
 
 </div>
 
@@ -138,10 +139,10 @@ const fathah = {
 # 🌱 Continuous Learning
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
-I believe in **continuous learning and professional growth**. I regularly practice **Data Structures and Algorithms**, explore new frameworks, and focus on improving my knowledge in **scalable system design and modern development practices**.
+I believe in **continuous learning and professional growth**. I regularly practice **Data Structures and Algorithms**, explore new frameworks, and improve my knowledge in **system design and scalable architecture**.
 
 ---
 
@@ -149,7 +150,7 @@ I believe in **continuous learning and professional growth**. I regularly practi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" alt="Handshake" />
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" />
 
 <br>
 
@@ -171,9 +172,9 @@ I believe in **continuous learning and professional growth**. I regularly practi
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mhd-fathah&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=mhd-fathah&color=blueviolet" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%" alt="Wave Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%" />
 
 <p><i>Thanks for visiting my profile! Let's build something amazing together.</i></p>
 
